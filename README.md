@@ -9,10 +9,13 @@
 I am Abhishek Kumar form India, and I do content on Blogging and Web Development. I really enjoy learning languages and exploring new things, apps, challenges.
 I also enjoying UI/UX and design in general.
 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Abhi000)](https://github.com/anuraghazra/github-readme-stats)<img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966">
 
 ### Hi there 👋, Abhishek Kumar  <img src="https://camo.githubusercontent.com/25b6f639c722e554e5e613868c463c98ccb6cc238bc7713d6355d9561b8c11f0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d616e6a687572616e69">
 #### Blogger-Developer-Tech Enthusiast  
+[<img alt="🦑" align="left" width="400px" src="https://raw.githubusercontent.com/2Abhi000/Abhishek20000/e63ca22ec141f7314b1c19e5a4acb3bdc255b8a6/akkkkk.svg">]()
 ![Blogger-Developer-Tech Enthusiast](https://github.com/2Abhi000/Abhishek20000/blob/main/banner.png?raw=true)
 
 I am Abhishek Kumar. A self-motivated, creative, and ambitious CSE professional seeks to take new challenges in developing websites and apps.Bringing three years work experience and knowledge of JavaScript, HTML, CSS and UI technologies – JSON, AJAX, Angular, and creating RESTful web services.
