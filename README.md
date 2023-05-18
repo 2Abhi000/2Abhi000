@@ -82,7 +82,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
 </p>
 
-<center><p><img src="https://raw.githubusercontent.com/2Abhi000/Abhishek20000/main/ban.png" alt="Abhishek kumar" width=500 height=600/></p></center>
+<center><p><a href="https://linktr.ee/abhishek_2000"><img src="https://raw.githubusercontent.com/2Abhi000/Abhishek20000/main/ban.png" alt="Abhishek kumar" width=500 height=600/></a></p></center>
 
 <!---
 2Abhi000/2Abhi000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
