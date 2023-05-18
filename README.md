@@ -15,7 +15,7 @@ I also enjoying UI/UX and design in general.
 
 ### Hi there 👋, Abhishek Kumar  <img src="https://camo.githubusercontent.com/25b6f639c722e554e5e613868c463c98ccb6cc238bc7713d6355d9561b8c11f0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616d616e6a687572616e69">
 #### Blogger-Developer-Tech Enthusiast  
-[<a href="https://linktr.ee/abhishek_2000"><img alt="🦑" align="left" width="400px" src="https://raw.githubusercontent.com/2Abhi000/Abhishek20000/e63ca22ec141f7314b1c19e5a4acb3bdc255b8a6/akkkkk.svg">]</a>()
+[<img alt="🦑" align="left" width="400px" src="https://raw.githubusercontent.com/2Abhi000/Abhishek20000/e63ca22ec141f7314b1c19e5a4acb3bdc255b8a6/akkkkk.svg">]()
 ![Blogger-Developer-Tech Enthusiast](https://github.com/2Abhi000/Abhishek20000/blob/main/banner.png?raw=true)
 
 I am Abhishek Kumar. A self-motivated, creative, and ambitious CSE professional seeks to take new challenges in developing websites and apps.Bringing three years work experience and knowledge of JavaScript, HTML, CSS and UI technologies – JSON, AJAX, Angular, and creating RESTful web services.
