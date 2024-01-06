@@ -86,14 +86,14 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <br>
 <aside>
-📌 Disclaimer: All content and materials found on the LetsUpgrade website are protected by copyright and are the intellectual property of LetsUpgrade and its genuine contributors. These materials are intended solely for educational purposes. By accessing this website, you are granted permission to view, print, and download extracts from the site for your personal educational use, subject to the following conditions:
+📌 Disclaimer: All content and materials found on this repo are protected by copyright and are the intellectual property of Abhishek Kumar and its genuine contributors. These materials are intended solely for educational purposes. By accessing this website, you are granted permission to view, print, and download extracts from the site for your personal educational use, subject to the following conditions:
 
 1. You may download this document from the website for personal use only.
 2. Any copies, whether partial or complete, stored on disk or any other storage medium, are for personal viewing purposes or for printing individual extracts for non-commercial personal use only.
 3. Any further distribution, dissemination, reproduction, copying of document content, or uploading thereof to other websites, or use of the content for any commercial or unauthorized purposes that may infringe upon the intellectual property rights of LetsUpgrade or its contributors, is strictly prohibited.
 4. The use of graphics, images, or photographs from this document separately for unauthorized purposes is prohibited.
 5. No material in this document may be modified, adapted, or altered in any manner.
-6. No portion of this document or LetsUpgrade's content may be reproduced or stored on any other website or incorporated into any public or private electronic retrieval system or service without prior written consent from LetsUpgrade.
+6. No portion of this document or any content on this repo may be reproduced or stored on any other website or incorporated into any public or private electronic retrieval system or service without prior written consent from Abhishek Kumar.
 7. Any rights not explicitly granted in these terms are reserved.
 </aside>
 <!---
